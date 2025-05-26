@@ -41,6 +41,8 @@ Todos los componentes están integrados en `App.js` para ser visualizados juntos
    npm install
 
 4. Ejecutá la aplicación:
+
+    ```bash
    npm start
    
 La app se abrirá en tu navegador en:  👉 http://localhost:3000/
